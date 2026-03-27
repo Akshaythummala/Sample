@@ -1,1 +1,1 @@
-Hi java prog
+Hi java programmers! Here is a simple Java program that demonstrates how to create a class, define a method, and execute the main method.
